@@ -1,0 +1,6 @@
+client/node_modules
+client/.eslintrc.cjs
+client/vite.config.js
+server/node_modules
+server/uploads
+server/.env

@@ -12,6 +12,8 @@ function Register() {
       headers: { 'Content-type': 'application/json' },
     })
     if (response.status !== 200) alert('Registration Falied')
+
+    alert('User registered')
   }
 
   return (
